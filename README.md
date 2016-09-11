@@ -1,2 +1,2 @@
 # silexapp
-Simple Silex Boilerplate application with Yahoo PureCSS ant Lato font included
+Simple Silex application boilerplate with Yahoo PureCSS and Lato font included
